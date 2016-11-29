@@ -1,0 +1,53 @@
+
+.inner{
+background-color: #ffffcc;
+}
+
+.word{
+color: crimson;
+font-weight: 900;
+}
+
+
+
+
+
+
+
+.ball{
+width:41px;
+height:41px;
+border-radius:50%;
+font-size:23px;
+font-family: Arial;
+font-weight: 900;
+color:#000;
+line-height:41px;
+text-align:center;
+background:#ffce00;
+}
+.ball2{
+width:41px;
+height:41px;
+border-radius:50%;
+font-size:23px;
+font-family: Arial;
+font-weight: 900;
+color:#ffffff;
+line-height:41px;
+text-align:center;
+background:#ff0101;
+}
+
+.ball3{
+width:41px;
+height:41px;
+border-radius:50%;
+font-size:23px;
+font-family: Arial;
+font-weight: 900;
+color:#ffffff;
+line-height:41px;
+text-align:center;
+background:#ffffcc;
+}
